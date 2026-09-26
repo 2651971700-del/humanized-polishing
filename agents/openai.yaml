@@ -1,0 +1,4 @@
+interface:
+  display_name: "人类化写作与精修"
+  short_description: "结合篇章逻辑与证据保真，让中英文学术文字自然、克制、有判断"
+  default_prompt: "请使用 $humanized-polishing 润色以下文字，保留原意、数字和引用，先处理冗余与逻辑，再调整表达。"
